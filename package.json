@@ -1,6 +1,6 @@
 {
     "name": "online-checker",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A React custom hook which tracks the browsers online status",
     "main": "dist/index.js",
     "scripts": {
