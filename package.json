@@ -1,7 +1,7 @@
 {
     "name": "online-checker",
     "version": "1.0.0",
-    "description": "",
+    "description": "A React custom hook which tracks the browsers online status",
     "main": "dist/index.js",
     "scripts": {
         "build": "rollup -c",
@@ -9,7 +9,9 @@
     },
     "keywords": [],
     "author": "",
+    "git repositio"
     "license": "ISC",
+
     "devDependencies": {
         "@types/react": "^18.0.27",
         "@types/react-dom": "^18.0.10",
