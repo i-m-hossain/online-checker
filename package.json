@@ -7,11 +7,15 @@
         "build": "rollup -c",
         "start": "rollup -c -w"
     },
-    "keywords": ["online checker", "online check hook","is-online" ],
+    "keywords": [
+        "online checker",
+        "online check hook",
+        "is-online"
+    ],
     "author": "Md Imran Hossain",
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mdimran1409036/online-checker.git"
+        "type": "git",
+        "url": "git+https://github.com/mdimran1409036/online-checker.git"
     },
     "license": "ISC",
     "devDependencies": {
@@ -26,8 +30,8 @@
         "typescript": "^4.9.4"
     },
     "peerDependencies": {
-        "react": "^16.8.0",
-        "react-dom": "^16.8.0"
+        "react": ">=16.8",
+        "react-dom": ">=16.8"
     },
     "files": [
         "dist"
